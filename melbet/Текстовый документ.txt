@@ -1,0 +1,663 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+
+<head>
+   <link rel="stylesheet" href="http://unixtrade-krd.online/wp-content/themes/melbet/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <script src="https://kit.fontawesome.com/774d65fc6b.js" crossorigin="anonymous"></script>
+
+ <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+    <script src="https://kit.fontawesome.com/774d65fc6b.js" crossorigin="anonymous"></script>
+</head>
+<style>
+
+	
+	
+</style>
+<body>
+    <div id="main-container">
+
+        <header id="header">
+            <div id="logo-content">
+                <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/Logo-1.png">
+                <button>На главную</button>
+            </div>
+
+            <div id="search-conatainer">
+                <h1>Справочный центр</h1>
+
+                <span><i class="fa-solid fa-magnifying-glass"></i><input type="text"
+                        placeholder="Введите поисковой запрос" id="search-inp"></span>
+            </div>
+        </header>
+
+        <div id="faq-content">
+            <div id="controller-block">
+                <p id="Question-answer-block">Вопрос-ответ<p>
+                <p id="Termins-dictionary-block">Словарь терминов</p>
+            </div>
+            <div id="disappear-cont">
+
+                <div id="link-buttons">
+                    <div class="flex">
+                        <button id="registr-btn">Регистрация и идентификация</button>
+                        <button id="reple-btn">Пополнение и вывод</button>
+                        <button id="rates-btn">Cтавки</button>
+                    </div>
+
+                    <div class="flex">
+                        <button id="tech-btn">Технические вопросы</button>
+                        <button id="stock-btn">Акции и бонусы</button>
+                        <button id="secure-btn">Личные данные</button>
+                    </div>
+                </div>
+
+            </div>
+            <div id="answer-dictionary">
+                <div id="alphabet-block" class="mobile-block-alp">
+                    <p class="main-cap-alp">A</p>
+                    <hr class="hr-alp">
+                    <div class="words">
+                        <p id="asian-handicap-btn">Азиатская фора</p>
+                        <p id="asian-total-btn">Азиатский тотал</p>
+                        <p>Андердог</p>
+                        <p>Апсет</p>
+                        <p>Аутрайт</p>
+
+                        <p>Аутсайдер</p>
+                        <p>Аутформ</p>
+                    </div>
+
+                    <p class="main-cap-alp">B</p>
+                    <hr class="hr-alp">
+                    <div class="words">
+                        <p>Азиатская фора</p>
+                        
+                    </div>
+
+                </div>
+
+
+                <div id="termins-explanation" >
+                    <div id="Asian-handicap">
+                        <p class="mini-desc-expl">Словарь терминов / Азиатская фора</p>
+
+                        <p class="caption-expl">Азиатская фора</p>
+
+                        <p class="main-text-expl">
+                            Азиатская фора – объединенная ставка на два гандикапа.
+                            Еще ее называют двойной.
+                            <br><br>
+                            Ставка выглядит как фора с «,25» или «,75» после запятой,
+                            например (+1,25) или (-2,75).
+                            <br><br>
+                            Фора или гандикап – это ставка на победу выбранной команды с условным преимуществом.
+                            Значение форы прибавляют к счету матча. Ставка прошла, если команда выиграла с учетом форы.
+                            <br><br>
+                            Подробнее о гандикапе и способах его расчета мы написали в статье «Фора»
+                        </p>
+
+                    </div>
+
+                    <div id="Asian-total">
+                        <p class="mini-desc-expl">Словарь терминов / Азиатская тотал</p>
+
+                        <p class="caption-expl">jtyjuyj</p>
+
+                        <p class="main-text-expl">
+tyujyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+                        </p>
+
+                    </div>
+
+                </div>
+
+
+            </div>
+
+
+            <div id="registr-inform" class="desappeare-blocks">
+
+            <i class="fa-sharp fa-solid fa-xmark"></i>
+                <p class="mini-desc-expl">Справочный центр / Регистрация и идентификация / Как зарегистрироваться на
+                    сайте Мелбет?</p>
+                <p class="caption-expl">Как зарегистрироваться на сайте Мелбет?</p>
+                <p class="main-text-expl">
+				    Как зарегистрироваться на сайте Мелбет?
+                    <br> <br>
+                    Создать аккаунт в букмекерской компании Мелбет можно несколькими путями:
+                    через официальный сайт для ПК.
+                    мобильное приложение на iOS или Android.
+                    <br> <br>
+                    Шаг 1: Нажмите на кнопку "Регистрация", расположенную в правом верхнем углу страницы. В обоих
+                    случаях нужно заполнить данные, указав имя и фамилию, email, дату рождения и номер телефона.
+                    <br> <br>
+                    Шаг 2: После этого вам нужно будет подтвердить номер, введя код из СМС и нажать кнопку «Войти».
+                    <br> <br>
+                    Шаг 3: После заполнения всех необходимых данных, нажмите на кнопку "Зарегистрироваться". Вы будете
+                    перенаправлены на главную страницу сайта, и ваш аккаунт будет создан.
+                    <br> <br>
+                    По закону Российской Федерации пополнять баланс и заключать пари можно только после подтверждения
+                    личности (идентификации).
+                    <br> <br>
+                    Идентификация в БК «Мелбет» — документальное подтверждение личности нового игрока. Это обязательный
+                    процесс для всех легальных букмекеров в России.
+                    <br> <br>
+                    Способы прохождения идентификации
+                    <br> <br>
+                    Подтвердить свою личность в БК «Мелбет» можно тремя способами:
+                    <br> <br>
+                    Онлайн на сайте букмекера.
+                    Онлайн через портал «Госуслуги».
+                    Идентификация при личном визите в один из салонов связи «Связной» или пункт системы Contact.
+                    <br> <br>
+                    Упрощённая идентификация
+                    Такой вариант предлагается новому игроку сразу после регистрации на сайте. Необходимо ввести свои
+                    ФИО, паспортные данные, адрес постоянной регистрации, ИНН и СНИЛС. После прохождения упрощённой
+                    идентификации клиент не сможет в полной мере воспользоваться функционалом сайта, так как на него
+                    будут наложены ограничения: размер одной трансакции на ввод/вывод средств — до 60 000 рублей, а
+                    сумма всех операций в месяц не может превышать 200 000 рублей. Чтобы снять все ограничения,
+                    необходимо пройти полную идентификацию. 
+                    <br> <br>
+                    Идентификация через «Госуслуги»
+                    Этот способ подойдёт тем, кто уже прошел идентификацию на портале gosuslugi.ru. Нажмите кнопку
+                    «Пройти идентификацию», после этого откроется форма авторизации на портале «Госуслуги», где нужно
+                    будет ввести свой логин и пароль.
+                    <br> <br>
+                    Полная идентификация
+                    Для полной идентификации нужно личное присутствие в салоне «Связной» или отделении системы Contact.
+                    С собой нужно взять паспорт. 
+                    Варианты полной идентификации в БК «Мелбет»
+                    В «Связном» скажите работнику, что хотите оплатить услугу идентификации в Едином ЦУПИС». Это будет
+                    стоить 300 рублей. 
+                    В офисе системы Contact нужно сказать оператору, что пришли оплатить услугу «Идентификация для
+                    “Мобильной карты”». В этом случае верификация обойдётся в 150 рублей. После подтверждения личности
+                    вы получите чек. Не выкидывайте его до первого пополнения баланса в Мелбет – чек пригодится, если
+                    при идентификации возникнут проблемы. 
+
+					
+                  
+                </p>
+
+                <button class="none-button">Какая-то кнопка ведущая по ссылке</button>
+
+                <div class="help-inf-question">
+                    <p>Была ли эта информация полезна?</p>
+                    <div>
+                        <button>Да</button>
+                        <button>Нет</button>
+                    </div>
+                </div>
+            </div>
+
+ <div id="replenishment" class="desappeare-blocks">
+    <i class="fa-sharp fa-solid fa-xmark"></i>
+                <p class="mini-desc-expl">Справочный центр / пополнения и вывод  / Как зарегистрироваться на
+                    сайте Мелбет?</p>
+                <p class="caption-expl">Как зарегистрироваться на сайте Мелбет?</p>
+               <p class="main-text-expl">
+					
+					<?php the_field('replen')?>
+					
+                  
+                </p>
+                <button class="none-button">Какая-то кнопка ведущая по ссылке</button>
+
+                <div class="help-inf-question">
+                    <p>Была ли эта информация полезна?</p>
+                    <div>
+                        <button>Да</button>
+                        <button>Нет</button>
+                    </div>
+                </div>
+            </div>
+
+
+        <div id="rates" class="desappeare-blocks">
+            <i class="fa-sharp fa-solid fa-xmark"></i>
+                <p class="mini-desc-expl">Справочный центр / ставки / Как зарегистрироваться на
+                    сайте Мелбет?</p>
+                <p class="caption-expl">Как зарегистрироваться на сайте Мелбет?</p>
+            
+  <p class="main-text-expl">
+					
+				<?php the_field('rates')?>
+					
+                  
+                </p>
+                <button class="none-button">Какая-то кнопка ведущая по ссылке</button>
+
+                <div class="help-inf-question">
+                    <p>Была ли эта информация полезна?</p>
+                    <div>
+                        <button>Да</button>
+                        <button>Нет</button>
+                    </div>
+                </div>
+            </div>
+
+            <div id="tech-questions" class="desappeare-blocks">
+                <i class="fa-sharp fa-solid fa-xmark"></i>
+                <p class="mini-desc-expl">Справочный центр / Технические вопросы  / Как зарегистрироваться на
+                    сайте Мелбет?</p>
+                <p class="caption-expl">Как зарегистрироваться на сайте Мелбет?</p>
+                
+  <p class="main-text-expl">
+					
+		<?php the_field('tech')?>
+					
+                  
+                </p>
+                <button class="none-button">Какая-то кнопка ведущая по ссылке</button>
+
+                <div class="help-inf-question">
+                    <p>Была ли эта информация полезна?</p>
+                    <div>
+                        <button>Да</button>
+                        <button>Нет</button>
+                    </div>
+                </div>
+            </div>
+
+<div id="stock" class="desappeare-blocks">
+    <i class="fa-sharp fa-solid fa-xmark"></i>
+                <p class="mini-desc-expl">Справочный центр / Акции и бонусы  / Как зарегистрироваться на
+                    сайте Мелбет?</p>
+                <p class="caption-expl">Как зарегистрироваться на сайте Мелбет?</p>
+          
+  <p class="main-text-expl">
+					<?php the_field('stock')?>
+				
+					
+                  
+                </p>
+                <button class="none-button">Какая-то кнопка ведущая по ссылке</button>
+
+                <div class="help-inf-question">
+                    <p>Была ли эта информация полезна?</p>
+                    <div>
+                        <button>Да</button>
+                        <button>Нет</button>
+                    </div>
+                </div>
+            </div>           
+
+<div id="secure-data" class="desappeare-blocks">
+    <i class="fa-sharp fa-solid fa-xmark"></i>
+                <p class="mini-desc-expl">Справочный центр / Личные данные / Как зарегистрироваться на
+                    сайте Мелбет?</p>
+                <p class="caption-expl">Как зарегистрироваться на сайте Мелбет?</p>
+          
+  <p class="main-text-expl">
+					
+					<?php the_field('secure')?>
+					
+                  
+                </p>
+                <button class="none-button">Какая-то кнопка ведущая по ссылке</button>
+
+                <div class="help-inf-question">
+                    <p>Была ли эта информация полезна?</p>
+                    <div>
+                        <button>Да</button>
+                        <button>Нет</button>
+                    </div>
+                </div>
+            </div>      
+
+        </div>
+
+
+
+
+<div id="hide-search-panel">
+        <span>
+            <p>Результаты для «Пари»:</p>
+            <p id="count-results">5</p>
+        </span>
+
+        <div class="result-block">
+            <p class="mini-description">Вопрос-ответ</p>
+            <p class="result-caption">
+                Регистрация и идентификация
+            </p>
+            <p class="main-text">По закону Российской Федерации пополнять баланс и заключать пари можно только после
+                подтверждения личности</p>
+
+        </div>
+        <div class="result-block">
+            <p class="mini-description">Вопрос-ответ</p>
+            <p class="result-caption">
+                Регистрация и идентификация
+            </p>
+            <p class="main-text">По закону Российской Федерации пополнять баланс и заключать пари можно только после
+                подтверждения личности</p>
+
+        </div>
+
+
+        <div class="result-block">
+            <p class="mini-description">Вопрос-ответ</p>
+            <p class="result-caption">
+                Регистрация и идентификация
+            </p>
+            <p class="main-text">По закону Российской Федерации пополнять баланс и заключать пари можно только после
+                подтверждения личности</p>
+
+        </div>
+
+        <div class="result-block">
+            <p class="mini-description">Вопрос-ответ</p>
+            <p class="result-caption">
+                Регистрация и идентификация
+            </p>
+            <p class="main-text">По закону Российской Федерации пополнять баланс и заключать пари можно только после
+                подтверждения личности</p>
+
+        </div>
+
+        <div class="result-block">
+            <p class="mini-description">Вопрос-ответ</p>
+            <p class="result-caption">
+                Регистрация и идентификация
+            </p>
+            <p class="main-text">По закону Российской Федерации пополнять баланс и заключать пари можно только после
+                подтверждения личности</p>
+
+        </div>
+
+
+
+    </div>
+
+
+            
+        
+
+
+
+
+
+   
+    
+
+
+    <footer>
+        <div id="footer-inf-contacts">
+
+            <ul>
+                <p class="cap-footer">Разделы</p>
+                <li><a href="">Главная</a></li><br>
+                <li><a href="">Линия</a></li><br>
+                <li><a href="">Live</a></li><br>
+                <li><a href="">Киберспорт</a></li><br>
+                <li><a href="">Акции</a></li><br>
+                <li><a href="">Статистика</a></li><br>
+                <li><a href="">Документы</a></li><br>
+                <li><a href="">Поддержка </a></li><br>
+            </ul>
+
+            <ul>
+                <p class="cap-footer">О нас</p>
+                <li><a href="">Общая информация</a></li><br>
+                <li><a href="">Федеральный закон от 29.12.2006 N 244-ФЗ</a></li><br>
+                <li><a href="">Правила букмекерской конторы</a></li><br>
+                <li><a href="">Источники информации</a></li><br>
+                <li><a href="">Политика обработки персональных данных</a></li><br>
+                <li><a href="">Согласие на обработку персональных данных</a></li><br>
+                <li><a href="">Соглашение о выигрыше с участником пари</a></li><br>
+                <li><a href="">Обратная связь</a></li>
+            </ul>
+
+            <div id="contacts">
+                <p class="cap-footer">Контакты</p>
+
+                <span id="support-contact">
+                    <p>Служба поддержки</p>
+                    <p>+7 (800) 707-05-43</p>
+                </span>
+                <div id="social-net-link">
+                    <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/vk.png">
+                    <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/telegram.png">
+                    <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/Skype.png">
+                    <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/mail.png">
+                    <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/whatsapp.png">
+                    <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/instagram.png">
+                </div>
+
+            </div>
+
+        </div>
+        <div id="contacts-mobily">
+            <p class="cap-footer">Контакты</p>
+
+            <span id="support-contact">
+                <p>Служба поддержки</p>
+                <p>+7 (800) 707-05-43</p>
+            </span>
+            <div id="social-net-link">
+                <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/vk.png">
+                <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/telegram.png">
+                <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/Skype.png">
+                <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/mail.png">
+                <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/whatsapp.png">
+                <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/instagram.png">
+            </div>
+
+        </div>
+
+        <div id="footer-inf-partners">
+            <div id="partners-logo">
+                <p class="cap-footer">Партнёры</p>
+                <div id="partners-img">
+                    <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/2264.png">
+                    <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/2265.png">
+                    <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/2266.png">
+                    <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/2285.png">
+                    <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/2286.png">
+                    <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/2464.png">
+                    <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/2477.png">
+                </div>
+            </div>
+            <div id="app-link">
+                <p class="cap-footer">Приложение МЕЛБЕТ</p>
+                <div id="img-block">
+                    <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/appstore-—-копия-2.png">
+                    <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/rustore-—-копия-2.png">
+                    <img src="http://unixtrade-krd.online/wp-content/uploads/2023/05/android-—-копия.png">
+                </div>
+            </div>
+        </div>
+
+    </footer>
+
+
+</div>
+
+
+
+
+
+
+  
+
+    <div id="transperent-footer">
+        <p>МЕЛБЕТ - букмекерская компания, действующая на основании лицензии № Л027-00108-77/00395491, выданной ФНС РФ 7
+            ноября 2012 года.<br><br>
+            Copyright © 2012-2023 «МЕЛБЕТ» Все права защищены и охраняются законом.</p>
+        <p>18+</p>
+    </div>
+ 
+ 
+
+<script>
+
+$("#Termins-dictionary-block").on("click", 
+function(){
+	$(".desappeare-blocks").css("display", "none")
+  $("#link-buttons").css("display",  "none")
+  $("#Question-answer-block").css("background", "#D9D9D9")
+   $("#Question-answer-block").css("color", "#7A7A7A")
+  $("#Termins-dictionary-block").css("background", "white")
+   $("#Termins-dictionary-block").css("color", "black")
+   $("#answer-dictionary").css("display",  "flex")
+})
+
+$("#Question-answer-block").on("click", 
+function(){
+       $("#answer-dictionary").css("display",  "none")
+  $("#link-buttons").css("display",  "block")
+    $("#Question-answer-block").css("background", "white")
+   $("#Question-answer-block").css("color", "black")
+   $("#Termins-dictionary-block").css("background", "#D9D9D9")
+   $("#Termins-dictionary-block").css("color", "#7A7A7A")
+ 
+})
+
+
+
+
+
+
+$("#registr-btn").on("click", function(){
+    $("#registr-inform").css("display", "block")
+     $("#replenishment").css("display", "none")
+$("#link-buttons").css("display", "none")
+     $("#rates").css("display", "none")
+     $("#tech-questions").css("display", "none")
+     $("#stock").css("display", "none")
+     $("#secure-data").css("display", "none")
+
+
+})
+$("#reple-btn").on("click", function(){
+    $("#registr-inform").css("display", "none")
+     $("#replenishment").css("display", "block")
+$("#link-buttons").css("display", "none")
+     $("#rates").css("display", "none")
+     $("#tech-questions").css("display", "none")
+     $("#stock").css("display", "none")
+     $("#secure-data").css("display", "none")
+
+
+})
+$("#rates-btn").on("click", function(){
+   
+    $("#registr-inform").css("display", "none")
+     $("#replenishment").css("display", "none")
+$("#link-buttons").css("display", "none")
+       $("#rates").css("display", "block")
+     $("#tech-questions").css("display", "none")
+     $("#stock").css("display", "none")
+     $("#secure-data").css("display", "none")
+
+
+})
+$("#tech-btn").on("click", function(){
+    $("#registr-inform").css("display", "none")
+     $("#replenishment").css("display", "none")
+$("#link-buttons").css("display", "none")
+     $("#rates").css("display", "none")
+     $("#tech-questions").css("display", "block")
+     $("#stock").css("display", "none")
+     $("#secure-data").css("display", "none")
+
+
+})
+$("#stock-btn").on("click", function(){
+    $("#registr-inform").css("display", "none")
+     $("#replenishment").css("display", "none")
+$("#link-buttons").css("display", "none")
+     $("#rates").css("display", "none")
+     $("#tech-questions").css("display", "none")
+     $("#stock").css("display", "block")
+     $("#secure-data").css("display", "none")
+
+
+})
+$("#secure-btn").on("click", function(){
+    $("#registr-inform").css("display", "none")
+     $("#replenishment").css("display", "none")
+$("#link-buttons").css("display", "none")
+     $("#rates").css("display", "none")
+     $("#tech-questions").css("display", "none")
+     $("#stock").css("display", "none")
+     $("#secure-data").css("display", "block")
+
+
+})
+
+$("#asian-handicap-btn").on("click", function(){
+    $("#Asian-handicap").css("display", "block")
+        $("#Asian-total").css("display", "none")
+         $("#registr-inform").css("display", "none")
+     $("#replenishment").css("display", "none")
+
+     $("#rates").css("display", "none")
+     $("#tech-questions").css("display", "none")
+     $("#stock").css("display", "none")
+     $("#secure-data").css("display", "none")
+})
+
+
+$("#asian-total-btn").on("click", function(){
+   $("#Asian-handicap").css("display", "none")
+ $("#Asian-total").css("display", "block")
+      $("#registr-inform").css("display", "none")
+     $("#replenishment").css("display", "none")
+
+     $("#rates").css("display", "none")
+     $("#tech-questions").css("display", "none")
+     $("#stock").css("display", "none")
+     $("#secure-data").css("display", "none")
+    
+})
+
+$("#search-inp").keyup(function(){
+    if($("#search-inp").val() == "Пари"){
+           $("#faq-content").css("display", "none")
+           $("#hide-search-panel").css("display", "block")
+       
+    }
+    else{
+          $("#faq-content").css("display", "block")
+           $("#hide-search-panel").css("display", "none")
+       
+    }
+})
+
+$(".fa-xmark").click(function(){
+$(".desappeare-blocks").css("display", "none")
+$("#link-buttons").css("display", "block")
+
+})
+
+
+
+</script>
+
+
+</body>
+
+
+ 
+
+
+
+
+</html>
